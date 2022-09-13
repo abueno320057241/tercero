@@ -1,0 +1,21 @@
+Historia del lenguaje C
+Lo que se:
+Lenguaje compilado y fuertemene tipado ,que fue desarrolado despues de otros lenguaje es como A y B.
+La mayoria de los lenguajes de programacion actuales estan basados en C.
+Se usa para el desarrollo de sstemas operativos, el kernel de GNU/Linux esta escrito en lenguaje C
+Los creadores fueron Denis Richie y Brian Kernighan
+
+¿Que?
+C es un lenguaje de programacion (considerado uno de los mas importantes en la actualidad) con el cual se desarrollaron tanto aplicaciones como sistemas operativos a la vez que forma la base de otros lenguajes mas actuales como Java,C++ O C#
+¿Quien?
+Denis Richie con ayuda de Ken Thompson  
+¿Como?
+C trabajo con tipos de datos quue son directamente tratables por el hadware de la mayoria de las computadoras actuales, como son los caracteres, numeros y direcciones. Estos tipos de datos pueden ser manipulados por las operaciones aritmeticas que proporcionan las computadoras. No proporciona mecanismos para tratar tipos de datos que no sean los basicos, debiendo ser el programador el que los desarrolle. Esto permite que el codigogenerado sea muy eficiente y de ahi el exito que ha tenido como lenguaje de desarrollo de sistemas. No proporciona otros mecanismos de almacenamiento de datos que no sea estatico y no proporciona mecanismos de entrada ni de salida. Ello permite que el lenguaje sea reducido y los compiladores de facil implementacion en distintos sistemas. Por contra, estas carecteristicas se compensan mediante la inclusion de funciones de libreria para realizar todas estas tareas, que normalmente dependen del sistema operativo 
+
+
+¿Donde?
+Se llevo acabo
+
+
+Ejemplo HOLA MUNDO
+
